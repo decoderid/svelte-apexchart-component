@@ -9,7 +9,7 @@ $ npm install apexcharts --save
 
 ### usage
 ```svelte
-<script lang="ts" module">
+<script lang="ts" module>
   import Apexchart from '~/components/wrapper/apexchart.svelte'
   const chartOneOptions: any = {
     series: [
